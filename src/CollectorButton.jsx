@@ -6,7 +6,7 @@ export default function CollectorButton() {
 
   return (
     <div>
-      <button style={props.buttonStyling}>
+      <button style={buttonStyling}>
         Click This!
       </button>
     </div>
